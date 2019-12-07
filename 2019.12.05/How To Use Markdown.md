@@ -454,12 +454,13 @@
 
     ```markdown
     1.  Open the file containing the Linux mascot.
-    2.  Marvel at its beauty.
+    2. Marvel at its beauty.
     
-        ![Tux, the Linux mascot](./image/tux.png)					//그림만
-    	![Tux, the Linux mascot](./image/tux.png "Linux mascot") 	//With 설명
-    	[![Tux, the Linux mascot](./image/tux.png "Linux mascot")](https://https://www.linux.com/) with 성명 + 링크
-    3.  Close the file.
+       ![tux](./image/tux.png?raw=true)
+       ![tux](./image/tux.png?raw=true"Linux mascot")
+       [![tux](./image/tux.png?raw=true"Linux mascot")](https://https://www.linux.com/)
+    
+    3. Close the file.
     ```
 
     
@@ -470,11 +471,11 @@
 
     2. Marvel at its beauty.
 
-       ![tux](./image/tux.png)
+       ![tux](./image/tux.png?raw=true)
 
-       ![tux](./image/tux.png "Linux mascot")
+       ![tux](./image/tux.png?raw=true"Linux mascot")
 
-       [![tux](./image/tux.png "Linux mascot")](https://https://www.linux.com/)
+       [![tux](./image/tux.png?raw=true"Linux mascot")](https://https://www.linux.com/)
 
     3.  Close the file.
 
