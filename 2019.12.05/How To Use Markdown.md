@@ -471,11 +471,11 @@
 
     2. Marvel at its beauty.
 
-       ![tux](./image/tux.png?raw=true)
+       ![tux](./Image/tux.png?raw=true)
 
-       ![tux](./image/tux.png?raw=true"Linux mascot")
+       ![tux](./Image/tux.png?raw=true"Linux mascot")
 
-       [![tux](./image/tux.png?raw=true"Linux mascot")](https://https://www.linux.com/)
+       [![tux](./Image/tux.png?raw=true"Linux mascot")](https://www.linux.com/)
 
     3.  Close the file.
 
