@@ -1,6 +1,6 @@
 ## Docker Structure
 
-![dockerStruct](/image/dockerStruct.jpg)
+![dockerStruct](image/dockerStruct.jpg )
 
 **pull**: Docker Hub에서 이미지를 가져온다.
 
