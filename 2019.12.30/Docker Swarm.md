@@ -326,13 +326,13 @@
 
 #### #2 복구를 스스로 하고 기록이 남음
 
-![docker](image/docker.png)
+![docker](image/docker.PNG)
 
 
 
 #### #3 노드를 죽였을 때(Worker1: 서비스 종료)
 
-![docker2](image/docker2.png)
+![docker2](image/docker2.PNG)
 
 다른 노드로 위임된다.
 
@@ -342,17 +342,17 @@
 
 연결은 되나 Container에 변화는 없다.
 
-![docker4](image/docker4.png)
+![docker4](image/docker4.PNG)
 
 
 
-![docker3](image/docker3.png)
+![docker3](image/docker3.PNG)
 
 
 
 #### #5 실행중인 하나의 컨테이너를 죽이면 Worker쪽으로 다시 또 분배된다.
 
-![docker5](image/docker5.png)
+![docker5](image/docker5.PNG)
 
 ##### *메뉴얼 상에서는 바로 분배되지 않고 scale을 조정했을 때만 할당할 수 있다.
 
@@ -364,13 +364,13 @@
 
 ##### #1 nginx 1.10 버전 설치
 
-![docker6](image/docker6.png)
+![docker6](image/docker6.PNG)
 
 
 
 ##### #2 서비스 업데이트
 
-![docker7](image/docker7.png)
+![docker7](image/docker7.PNG)
 
 
 
@@ -392,5 +392,5 @@
 
 docker service --update --rollback 서비스이름
 
-![docker8](image/docker8.png)
+![docker8](image/docker8.PNG)
 
