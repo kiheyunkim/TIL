@@ -12,7 +12,7 @@
 
 
 
-* ##### Docker Swarm & Docker Swarm Mode
+* ##### Docker Swarm&Docker Swarm Mode
 
   * 여러 대의 도커 서버(물리적 서버)를 하나의 클러스터로 만들어 컨테이너를 생성하는 기능
 
